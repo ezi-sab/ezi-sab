@@ -4,7 +4,7 @@
 * I'm a final year student at University of Birmingham (BSc Computer Science and Artificial Intelligence)
 * I'm currently working on the my personal project
 
-  > Project: Predicting the biological activity of biosynthesis gene clusters
+  > Project: Extracting correlationship between genome sequence and CPS structures from Streptococcus pneumoniae capsule
 
 ### 💡Interest💡
 * I'm interested in 
