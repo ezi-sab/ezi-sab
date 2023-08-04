@@ -1,12 +1,13 @@
 ## Hi, my name is Eunji(Sabrina) Kwak 👋
 
 ### 📕Education📕  
-* I'm studying Bioinformatics University of Birmingham (MSc Bioinformatics)
-* I'm currently working on the my group project
+* I'm studying MSc Bioinformatics at University of Birmingham 
+* I'm currently working on the my project
 
   > Project: Skin single-cell RNA sequencing(scRNA Seq)
-
-* I'm currently learning BSc Computer Science and Artificial Intelligence at University of Birmingham.
+  > Project: Developing the pipeline for STI testing
+  
+* I'm currently graduated BSc Computer Science and Artificial Intelligence at University of Birmingham.
 * My personal project for Final year dissertation:
 
   > Extracting correlationship between genome sequence and CPS structures from Streptococcus pneumoniae capsule
@@ -15,7 +16,7 @@
 * I'm interested in 
     > Computer Science  
   
-    > Artificial Intelligence
+    > Machine Learning
   
     > Bioinformatics
 
