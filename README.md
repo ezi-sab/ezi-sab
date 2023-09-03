@@ -6,7 +6,7 @@
 
   > Project: Skin single-cell RNA sequencing(scRNA Seq)
   >
-  > Project: Developing the pipeline for STI testing
+  > Project: Building the pipeline in Python for STI testing development
   
 * I'm currently graduated BSc Computer Science and Artificial Intelligence at University of Birmingham.
 * My personal project for Final year dissertation:
